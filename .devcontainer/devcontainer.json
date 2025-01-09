@@ -12,7 +12,7 @@
                 "ms-vscode.powershell",
                 "hashicorp.terraform",
                 "esbenp.prettier-vscode",
-                "tfsec.tfsec"
+                "tfsec.tfsec",
                 "ms-dotnettools.csharp"
             ]
         }
