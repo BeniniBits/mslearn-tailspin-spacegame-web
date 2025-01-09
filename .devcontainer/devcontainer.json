@@ -13,6 +13,7 @@
                 "hashicorp.terraform",
                 "esbenp.prettier-vscode",
                 "tfsec.tfsec"
+                "ms-dotnettools.csharp"
             ]
         }
     },
